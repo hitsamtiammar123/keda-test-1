@@ -17,6 +17,4 @@ function soal1Function(num){
   }
 }
 
-soal1Function(20)
-
 module.exports = soal1Function;
